@@ -1,0 +1,48 @@
+@font-face{
+	font-family: oxanium;
+	src: url('Ayar.ttf')format('truetype');
+		
+}
+
+body{display: flex;
+	font-family: oxanium;
+	font-size: 16px;
+}
+
+
+
+.contenedor{
+	border: 7px solid #ccc;
+	margin: 0 auto;
+	width: 60%;
+	background: #fff;
+	padding: 50px;
+}
+.principal{
+	background: #FFFAF0;
+	padding: 10PX;
+}
+
+
+.nombre{
+	font-size: 0.8em;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transformX:(-50%) translateY(-50%) ;
+
+}
+
+.titulo{
+	
+	border: 1px solid; #0CB1BF;
+	color: #808080;
+	font-size: 1em;
+
+}
+.letter{
+	text-align: justify;
+	
+}
+
+
